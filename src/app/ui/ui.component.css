@@ -1,0 +1,63 @@
+table{
+    width: 25cm;
+}
+
+div{
+    margin-left: 10px;
+}
+
+    div.A5{
+        margin-bottom: 1cm;
+    }
+
+    div.data{
+        border-style:outset;
+        border-width: 1px;
+        margin-right: 20px;
+        padding-bottom: 10px;
+    }
+
+td{
+    height: auto;
+    border-style:ridge;
+    border-width:2px;
+}
+
+    td.image{
+        width: 8cm;
+    }
+
+    td.info{
+        width: 17cm;
+    }
+
+img{
+    height: 100%;
+    width:200px
+}
+
+h3 {
+    display: inline-block;
+    margin-right: 1cm;
+}
+
+    h3.correlation{
+        margin-right: 2.2cm;
+    }
+
+    h3.simpson, h3.tStudent{
+        margin-right: 15px;
+    }
+    
+label{
+    margin-right: 0.3cm;
+    margin-left: 0.55cm;
+}
+
+    label.x1, .x0{
+        margin-right: 0.45cm;
+    }
+
+    label.error{
+        margin-right: 0.52cm;
+    }
